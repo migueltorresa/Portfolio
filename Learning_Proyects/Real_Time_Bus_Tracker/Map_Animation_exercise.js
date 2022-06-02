@@ -12,11 +12,11 @@ const busStops = [
   [-71.115476, 42.372085],
   [-71.117585, 42.373016],
   [-71.118625, 42.374863],
-];
+]; 
 
 // A.T.
 mapboxgl.accessToken =
-  'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
+  'pk.eyJ1IjoibWlndWVsLXRvcnJlcy1hIiwiYSI6ImNsMnpkampzZTAwZm0zY3J5MjhtODI1NmMifQ.dhPF9ewScR8mAMs6pZZhMQ';
 
 // Creates map with mapbox tool
 let map = new mapboxgl.Map({
